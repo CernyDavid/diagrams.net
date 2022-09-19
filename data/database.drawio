@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-19T16:43:32.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="YvOrD9epB-vVDp46HH10" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-19T17:05:41.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="rvMY_ZC0kUtWAROFOEDR" version="20.3.0" type="github">
   <diagram id="QtzbmXPJFVnT6pqp9JkW" name="Page-1">
     <mxGraphModel dx="2889" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,10 +106,10 @@
             <mxPoint x="440" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-v57nNJkEWmGI66YnKV1-36" value="Manažer eshopu" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="-v57nNJkEWmGI66YnKV1-36" value="Správce eshopu" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-40" y="850" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-v57nNJkEWmGI66YnKV1-42" value="Udržuje eshop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-v57nNJkEWmGI66YnKV1-42" value="Udržuje web" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="102" y="840" width="167.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-v57nNJkEWmGI66YnKV1-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="-v57nNJkEWmGI66YnKV1-42" target="-v57nNJkEWmGI66YnKV1-36">
@@ -125,15 +125,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="423.6779999999998" y="950" as="sourcePoint" />
             <mxPoint x="295.3191086223687" y="1001.823255979356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-v57nNJkEWmGI66YnKV1-46" value="Přijímá výdělek" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="113.25" y="940" width="145" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="-v57nNJkEWmGI66YnKV1-47" value="" style="endArrow=none;html=1;rounded=0;entryX=-0.007;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="-v57nNJkEWmGI66YnKV1-36" target="-v57nNJkEWmGI66YnKV1-46">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="690" as="sourcePoint" />
-            <mxPoint x="440" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
