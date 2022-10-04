@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-04T15:29:33.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="jf04QycLb0S2AaTgnslj" version="20.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-04T15:33:36.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="PX380rc_vSkqRvG-plgQ" version="20.3.3" type="github">
   <diagram id="5Q0YN1sBx2M6zKfhZn4S" name="Page-1">
     <mxGraphModel dx="2889" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -436,6 +436,12 @@
         </mxCell>
         <mxCell id="LGAdP0nL_e87iUjIlfxc-123" value="Belongs into &amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGAdP0nL_e87iUjIlfxc-124" value="1..N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGAdP0nL_e87iUjIlfxc-125" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="510" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
